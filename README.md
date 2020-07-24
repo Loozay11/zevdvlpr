@@ -1,4 +1,4 @@
-# Zev (zevdvlpr)
+# Zev
 
 [![Twitter Badge](https://img.shields.io/badge/-@zevdvlpr-0080ff?style=flat-square&labelColor=0080ff&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
 [![Linkedin Badge](https://img.shields.io/badge/-zevdvlpr%237777-0080ff?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com) 
