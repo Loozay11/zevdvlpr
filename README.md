@@ -7,7 +7,7 @@
 
 Bom meu nome é Izak. mais todo mundo me chama de Zev. Sou Desenvolvedor Fullstack. Me interesei pela área de Tecnológia de Informação aos 15 anos com a linguagem Javascript com o passar do tempo me apaixonei pela linguagem. Hoje desenvolvo com Node Js, React JS e React Native.
 
-#### :building_construction: Linguagems e ferramentas:
+#### :building_construction: Linguagens e ferramentas:
 
 <img height="24" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
