@@ -1,7 +1,7 @@
 ### Olá, eu sou o [Zev](https://github.com/zevdvlpr) 👋
 ---
 
-[![Github Badge](https://img.shields.io/badge/-WebSite-f7c139?style=flat-square&labelColor=f7c139&logo=google-chrome&logoColor=white&link=https://github.com/zevdvlpr)](https://github.com/zevdvlpr)
+[![Github Badge](https://img.shields.io/badge/-WebSite-f7c139?style=flat-square&labelColor=f7c139&logo=google-chrome&logoColor=white&link=https://zevdvlpr.ml)](https://zevdvlpr.ml)
 [![Website Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/zevdvlpr)](https://github.com/zevdvlpr)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-007ec6?style=flat-square&labelColor=007ec6&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zevdvlpr@gmail.com)](mailto:zevdvlpr@gmail.com)
