@@ -1,9 +1,10 @@
 ### Olá, eu sou o [Zev](https://github.com/zevdvlpr) 👋
 ---
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-0080ff?style=flat-square&labelColor=0080ff&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
-[![Linkedin Badge](https://img.shields.io/badge/-zevdvlpr%238582-0080ff?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com) 
-[![Gmail Badge](https://img.shields.io/badge/-zevdvlpr@gmail.com-0080ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zevdvlpr@gmail.com)](mailto:zevdvlpr@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-WebSite-f7c139?style=flat-square&labelColor=f7c139&logo=google-chrome&logoColor=white&link=https://github.com/zevdvlpr)](https://github.com/zevdvlpr)
+[![Website Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/zevdvlpr)](https://github.com/zevdvlpr)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-007ec6?style=flat-square&labelColor=007ec6&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zevdvlpr@gmail.com)](mailto:zevdvlpr@gmail.com)
 
 Bom meu nome é Izak. mais todo mundo me chama de Zev. Sou Desenvolvedor Fullstack. Me interesei pela área de Tecnológia de Informação aos 15 anos com a linguagem Javascript com o passar do tempo me apaixonei pela linguagem. Hoje desenvolvo com Node Js, React JS e React Native.
 
