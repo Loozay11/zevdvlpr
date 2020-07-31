@@ -10,10 +10,10 @@ Bom meu nome é Izak. mais todo mundo me chama de Zev. Sou Desenvolvedor Fullsta
 
 #### :building_construction: Linguagens e ferramentas:
 
-<img src="https://img.icons8.com/ios-filled/32/0080FF/typescript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/ios-filled/32/0080FF/javascript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/windows/32/0080FF/nodejs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/ios-filled/32/0080FF/react-native.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/ios-filled/32/0080FF/typescript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.javascript.com/"><img src="https://img.icons8.com/ios-filled/32/0080FF/javascript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/32/0080FF/nodejs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://reactnative.dev/"><img src="https://img.icons8.com/ios-filled/32/0080FF/react-native.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 #### :nerd_face: Algumas estatísticas:
 ![my-data](https://github-readme-stats.vercel.app/api?username=zevdvlpr&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)
